@@ -1,0 +1,103 @@
+{
+    "tableHead": [
+        "#",
+        "Question",
+        "Category",
+        "State",
+        "Licence",
+        "Status",
+        "Display"
+    ],
+    "tableData": [
+        {
+            "id": "1151",
+            "questions": "Do you keep all surveillance recordings for at least 90 calendar days",
+            "category": "company policy",
+            "License": "view",
+            "states": "CA",
+            "status": "Active",
+            "Display": "publish"
+        },
+        {
+            "id": "1152",
+            "questions": "How would you create Higher Order Components (HOCs) in React?",
+            "category": "company policy",
+            "License": "view",
+            "states": "CA",
+            "status": "Active",
+            "Display": "publish"
+        },
+        {
+            "id": "1153",
+            "questions": "How much do you care ?",
+            "category": "company policy",
+            "License": "view",
+            "states": "CA",
+            "status": "Active",
+            "Display": "publish"
+        },
+        {
+            "id": "1154",
+            "questions": "What is the significance of keys in React?",
+            "category": "company policy",
+            "License": "view",
+            "states": "CA",
+            "status": "Active",
+            "Display": "publish"
+        },
+        {
+            "id": "1155",
+            "questions": "Add functionality to add item",
+            "category": "company policy",
+            "License": "view",
+            "states": "CA",
+            "status": "Active",
+            "Display": "publish"
+        },
+        {
+            "id": "1156",
+            "questions": "Now we can run yarn start or npm run start in the terminal to view our changes",
+            "category": "company policy",
+            "License": "view",
+            "states": "CA",
+            "status": "Active",
+            "Display": "publish"
+        },
+        {
+            "id": "1157",
+            "questions": "JavaScript ignoreCase Property ",
+            "category": "company policy",
+            "License": "view",
+            "states": "CA",
+            "status": "Active",
+            "Display": "publish"
+        },
+        {
+            "id": "1158",
+            "questions": "Conversion to upper or lower case does provide correct case insensitive comparisons in all languages.",
+            "category": "company policy",
+            "License": "view",
+            "states": "CA",
+            "status": "Active",
+            "Display": "publish"
+        },
+        {
+            "id": "1159",
+            "questions": "This answer was originally added 9 years ago. Today you should use localeCompare with the sensitivity",
+            "category": "company policy",
+            "License": "view",
+            "states": "CA",
+            "status": "Active",
+            "Display": "publish"
+        },
+        {
+            "id": "1160",
+            "questions": "Note that the third parameter of localeCompare is not supported in IE10 or lower or certain mobile browsers (see the compatibility chart on the page linked above)",
+            "category": "company policy",
+            "License": "view",
+            "states": "CA",
+            "status": "Active",
+            "Display": "publish"
+        }
+    ]
+}

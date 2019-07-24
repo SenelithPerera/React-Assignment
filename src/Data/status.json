@@ -1,0 +1,10 @@
+[
+    {
+        "value": "one",
+        "label": "Active"
+    },
+    {
+        "value": "two",
+        "label": "inactive"
+    }
+]

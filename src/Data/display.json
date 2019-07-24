@@ -1,0 +1,10 @@
+[
+    {
+        "value": "one",
+        "label": "publish"
+    },
+    {
+        "value": "two",
+        "label": "draft"
+    }
+]
